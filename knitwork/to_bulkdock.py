@@ -37,7 +37,7 @@ def create_bulkdock_inputs(subdir: str):
 
             for series in data.values():
 
-                logger.var(f"{merge_name} #expansions:", len(series["expansions"]))
+                mrich.var(f"{merge_name} #expansions:", len(series["expansions"]))
 
                 for i, (smiles, cmpd_ids) in enumerate(
                     zip(series["expansions"], series["cmpd_ids"])
@@ -52,13 +52,13 @@ def create_bulkdock_inputs(subdir: str):
 
         df = pd.DataFrame(all_merges)
 
-        logger.success(f"{len(df)} total merges")
+        mrich.success(f"{len(df)} total merges")
 
         if pure:
-            logger.writing(f"{key}_knitwork_pure.csv")
+            mrich.writing(f"{key}_knitwork_pure.csv")
             df.to_csv(f"{key}_knitwork_pure.csv", index=False)
         else:
-            logger.writing(f"{key}_knitwork_impure.csv")
+            mrich.writing(f"{key}_knitwork_impure.csv")
             df.to_csv(f"{key}_knitwork_impure.csv", index=False)
 
 

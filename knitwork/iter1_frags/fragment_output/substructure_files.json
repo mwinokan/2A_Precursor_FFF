@@ -1,0 +1,62 @@
+{
+  "A0229a": {
+    "subnode": {
+      "CN(C)C": [
+        "subnode_A0229a_CN(C)C_0.mol"
+      ],
+      "c1ccc2[nH]ccc2c1": [
+        "subnode_A0229a_c1ccc2[nH]ccc2c1_0.mol"
+      ]
+    },
+    "synthon": {
+      "[Xe]c1c[nH]c2ccccc12": [
+        "synthon_A0229a_[Xe]c1c[nH]c2ccccc12_0.mol"
+      ],
+      "CN(C)C[Xe]": [
+        "synthon_A0229a_CN(C)C[Xe]_0.mol"
+      ],
+      "[Xe]c1ccc2[nH]ccc2c1": [
+        "synthon_A0229a_[Xe]c1ccc2[nH]ccc2c1_0.mol"
+      ]
+    }
+  },
+  "A0503a": {
+    "subnode": {
+      "CCC(N)=O": [
+        "subnode_A0503a_CCC(N)=O_0.mol"
+      ],
+      "c1ccc2[nH]cnc2c1": [
+        "subnode_A0503a_c1ccc2[nH]cnc2c1_0.mol"
+      ]
+    },
+    "synthon": {
+      "[Xe]n1cnc2ccccc21": [
+        "synthon_A0503a_[Xe]n1cnc2ccccc21_0.mol"
+      ],
+      "[Xe]c1nc2ccccc2[nH]1": [
+        "synthon_A0503a_[Xe]c1nc2ccccc2[nH]1_0.mol"
+      ],
+      "NC(=O)CC[Xe]": [
+        "synthon_A0503a_NC(=O)CC[Xe]_0.mol"
+      ]
+    }
+  },
+  "A0759a": {
+    "subnode": {
+      "CNCC(C)O": [
+        "subnode_A0759a_CNCC(C)O_0.mol"
+      ],
+      "c1ccc2c(c1)OCO2": [
+        "subnode_A0759a_c1ccc2c(c1)OCO2_0.mol"
+      ]
+    },
+    "synthon": {
+      "CC(O)CNC[Xe]": [
+        "synthon_A0759a_CC(O)CNC[Xe]_0.mol"
+      ],
+      "[Xe]c1ccc2c(c1)OCO2": [
+        "synthon_A0759a_[Xe]c1ccc2c(c1)OCO2_0.mol"
+      ]
+    }
+  }
+}

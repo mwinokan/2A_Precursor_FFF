@@ -35,6 +35,6 @@ python $KNIT/Knitwork/runKnitting.py \
 	--limit 100 \
 	--prolif_prioritization \
 	--max_prioritize 100 \
-	--target $DIR \
+	--target $(basename $DIR) \
 	--substructure_dir fragment_output \
-	-fd
+	-fd $(dirname $DIR)

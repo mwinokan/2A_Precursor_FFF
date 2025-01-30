@@ -1,0 +1,20 @@
+{
+  "A0229a": {
+    "COc1ccc2[nH]ccc2c1": "COc1ccc2[nH]cc([Xe])c2c1",
+    "CN(C)Cc1c[nH]c2ccccc12": "CN(C)Cc1c[nH]c2ccc([Xe])cc12",
+    "c1ccc2[nH]ccc2c1": "[Xe]c1c[nH]c2ccccc12,[Xe]c1ccc2[nH]ccc2c1",
+    "CN(C)C": "CN(C)C[Xe]",
+    "CO": "CO[Xe]"
+  },
+  "A0503a": {
+    "C": "C[Xe]",
+    "CCC(N)=O": "NC(=O)CC[Xe]",
+    "c1ccc2[nH]cnc2c1": "[Xe]n1cnc2ccccc21,[Xe]c1nc2ccccc2[nH]1",
+    "NC(=O)CCn1cnc2ccccc21": "NC(=O)CCn1c([Xe])nc2ccccc21",
+    "Cc1nc2ccccc2[nH]1": "Cc1nc2ccccc2n1[Xe]"
+  },
+  "A0759a": {
+    "CNCC(C)O": "CC(O)CNC[Xe]",
+    "c1ccc2c(c1)OCO2": "[Xe]c1ccc2c(c1)OCO2"
+  }
+}

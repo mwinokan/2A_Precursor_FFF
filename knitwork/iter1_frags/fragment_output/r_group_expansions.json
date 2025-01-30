@@ -1,0 +1,21 @@
+{
+  "A0229a": {
+    "[Xe]c1c[nH]c2ccccc12": [
+      "CO[Xe]"
+    ],
+    "CN(C)C[Xe]": [
+      "CO[Xe]"
+    ],
+    "[Xe]c1ccc2[nH]ccc2c1": []
+  },
+  "A0503a": {
+    "[Xe]c1nc2ccccc2[nH]1": [],
+    "NC(=O)CC[Xe]": [
+      "C[Xe]"
+    ],
+    "[Xe]n1cnc2ccccc21": [
+      "C[Xe]"
+    ]
+  },
+  "A0759a": {}
+}

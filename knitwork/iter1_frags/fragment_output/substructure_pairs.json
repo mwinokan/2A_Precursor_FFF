@@ -1,0 +1,58 @@
+{
+  "A0229a-A0503a": [
+    [
+      "c1ccc2[nH]ccc2c1",
+      "NC(=O)CC[Xe]"
+    ]
+  ],
+  "A0229a-A0759a": [
+    [
+      "c1ccc2[nH]ccc2c1",
+      "CC(O)CNC[Xe]"
+    ]
+  ],
+  "A0503a-A0229a": [
+    [
+      "CCC(N)=O",
+      "[Xe]c1c[nH]c2ccccc12"
+    ],
+    [
+      "CCC(N)=O",
+      "[Xe]c1ccc2[nH]ccc2c1"
+    ]
+  ],
+  "A0503a-A0759a": [
+    [
+      "CCC(N)=O",
+      "CC(O)CNC[Xe]"
+    ],
+    [
+      "c1ccc2[nH]cnc2c1",
+      "CC(O)CNC[Xe]"
+    ]
+  ],
+  "A0759a-A0229a": [
+    [
+      "CNCC(C)O",
+      "[Xe]c1c[nH]c2ccccc12"
+    ],
+    [
+      "CNCC(C)O",
+      "[Xe]c1ccc2[nH]ccc2c1"
+    ]
+  ],
+  "A0759a-A0503a": [
+    [
+      "CNCC(C)O",
+      "[Xe]n1cnc2ccccc21"
+    ],
+    [
+      "CNCC(C)O",
+      "[Xe]c1nc2ccccc2[nH]1"
+    ],
+    [
+      "CNCC(C)O",
+      "NC(=O)CC[Xe]"
+    ]
+  ]
+}
