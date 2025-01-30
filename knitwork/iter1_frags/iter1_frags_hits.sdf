@@ -1,0 +1,408 @@
+A0229a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -27.6730   -4.6710   -7.6620 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -32.8400   -7.0140  -11.6250 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.8350   -3.3350  -11.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3080   -3.7170   -9.8320 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1820   -3.0700   -9.3770 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5750   -2.0410  -10.1230 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.0790   -1.6480  -11.3360 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2120   -2.3030  -11.8010 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.9670   -3.0050  -12.9800 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.9530   -3.7840  -11.8600 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -31.9690   -4.8170  -11.4720 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -31.1340   -6.3510  -13.1350 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.9190   -2.1250  -12.9580 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -31.6350   -6.2110  -11.7760 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.5600   -3.3530   -8.1830 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0
+  5  4  1  0
+  6  5  2  0
+  7  6  1  0
+  8  7  2  0
+  8  3  1  0
+ 10  9  2  0
+ 10  3  1  0
+ 11 10  1  0
+ 13  9  1  0
+ 13  8  1  0
+ 14  2  1  0
+ 14 12  1  0
+ 14 11  1  0
+ 15  5  1  0
+ 15  1  1  0
+M  END
+>  <id>  (1) 
+1
+
+>  <inchikey>  (1) 
+GOERTRUXQHDLHC-UHFFFAOYSA-N
+
+>  <alias>  (1) 
+A0229a
+
+>  <smiles>  (1) 
+COc1ccc2[nH]cc(CN(C)C)c2c1
+
+>  <path>  (1) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/A71EV2AZ/aligned_files/A0229a/A0229a.pdb
+
+>  <distance_score>  (1) 
+None
+
+>  <energy_score>  (1) 
+None
+
+>  <compound>  (1) 
+GOERTRUXQHDLHC-UHFFFAOYSA-N
+
+>  <compound_id>  (1) 
+1
+
+>  <target>  (1) 
+A71EV2AZ
+
+>  <tags>  (1) 
+['hits', '[Other] FFF_iter1_frags', '[Other] upload_1 2025-01-30']
+
+>  <inspirations>  (1) 
+
+
+>  <reference>  (1) 
+
+
+>  <observation_longname>  (1) 
+A71EV2AZ-x0229_A_301_v1
+
+>  <ConformerSites alias>  (1) 
+1a - A0503/A/245
+
+>  <CanonSites alias>  (1) 
+1 - A0503/A/245/1
+
+>  <CrystalformSites alias>  (1) 
+F1a - A0229/A/301
+
+>  <Quatassemblies alias>  (1) 
+A1 - monomer
+
+>  <Crystalforms alias>  (1) 
+F1 - 1st_form
+
+>  <ConformerSites upload name>  (1) 
+1a - A71EV2AZ-x0503/A/245
+
+>  <CanonSites upload name>  (1) 
+1 - A71EV2AZ-x0503/A/245/1
+
+>  <CrystalformSites upload name>  (1) 
+F1a - A71EV2AZ-x0229/A/301/1
+
+>  <Quatassemblies upload name>  (1) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (1) 
+F1 - 1st_form
+
+>  <ConformerSites short tag>  (1) 
+1a - A0503/A/245
+
+>  <CanonSites short tag>  (1) 
+1 - A0503/A/245/1
+
+>  <CrystalformSites short tag>  (1) 
+F1a - A0229/A/301
+
+>  <Quatassemblies short tag>  (1) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (1) 
+F1 - 1st_form
+
+>  <Centroid res>  (1) 
+A71EV2AZ-x0503/A/112/A_v1
+
+>  <Experiment code>  (1) 
+A71EV2AZ-x0229
+
+>  <Pose>  (1) 
+A0229a
+
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/2A_Precursor_FFF/knitwork/iter1_frags/iter1_frags_hits.sdf']
+
+$$$$
+A0503a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -27.7750   -4.6190   -6.8980 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.8630   -5.7640   -8.3660 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -31.4760   -4.4210   -8.0430 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.1380   -3.8450   -8.1040 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3230   -2.2930   -9.5920 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.2450   -1.1240  -10.3460 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9260   -1.0880  -11.5380 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6800   -2.1730  -11.9850 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7740   -3.3370  -11.2560 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0750   -3.3720  -10.0570 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5830   -5.6700   -9.1720 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7450   -2.6170   -8.3700 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.9570   -4.3460   -9.0990 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -31.2460   -3.9540   -6.8260 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -32.1610   -3.8170   -8.8640 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0
+  4  1  1  0
+  6  5  2  0
+  7  6  1  0
+  8  7  2  0
+  9  8  1  0
+ 10  9  2  0
+ 10  5  1  0
+ 11  2  1  0
+ 12  5  1  0
+ 12  4  2  0
+ 13 11  1  0
+ 13 10  1  0
+ 13  4  1  0
+ 14  3  1  0
+ 15  3  2  0
+M  END
+>  <id>  (2) 
+5
+
+>  <inchikey>  (2) 
+HZTUIHZIQKFSIL-UHFFFAOYSA-N
+
+>  <alias>  (2) 
+A0503a
+
+>  <smiles>  (2) 
+Cc1nc2ccccc2n1CCC(N)=O
+
+>  <path>  (2) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/A71EV2AZ/aligned_files/A0503a/A0503a.pdb
+
+>  <distance_score>  (2) 
+None
+
+>  <energy_score>  (2) 
+None
+
+>  <compound>  (2) 
+HZTUIHZIQKFSIL-UHFFFAOYSA-N
+
+>  <compound_id>  (2) 
+5
+
+>  <target>  (2) 
+A71EV2AZ
+
+>  <tags>  (2) 
+['hits', '[Other] FFF_iter1_frags', '[Other] upload_1 2025-01-30']
+
+>  <inspirations>  (2) 
+
+
+>  <reference>  (2) 
+
+
+>  <observation_longname>  (2) 
+A71EV2AZ-x0503_A_245_v1
+
+>  <ConformerSites alias>  (2) 
+1a - A0503/A/245
+
+>  <CanonSites alias>  (2) 
+1 - A0503/A/245/1
+
+>  <CrystalformSites alias>  (2) 
+F1a - A0229/A/301
+
+>  <Quatassemblies alias>  (2) 
+A1 - monomer
+
+>  <Crystalforms alias>  (2) 
+F1 - 1st_form
+
+>  <ConformerSites upload name>  (2) 
+1a - A71EV2AZ-x0503/A/245
+
+>  <CanonSites upload name>  (2) 
+1 - A71EV2AZ-x0503/A/245/1
+
+>  <CrystalformSites upload name>  (2) 
+F1a - A71EV2AZ-x0229/A/301/1
+
+>  <Quatassemblies upload name>  (2) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (2) 
+F1 - 1st_form
+
+>  <ConformerSites short tag>  (2) 
+1a - A0503/A/245
+
+>  <CanonSites short tag>  (2) 
+1 - A0503/A/245/1
+
+>  <CrystalformSites short tag>  (2) 
+F1a - A0229/A/301
+
+>  <Quatassemblies short tag>  (2) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (2) 
+F1 - 1st_form
+
+>  <Centroid res>  (2) 
+A71EV2AZ-x0503/A/112/A_v1
+
+>  <Experiment code>  (2) 
+A71EV2AZ-x0503
+
+>  <Pose>  (2) 
+A0503a
+
+>  <exports>  (2) 
+['/opt/xchem-fragalysis-2/maxwin/2A_Precursor_FFF/knitwork/iter1_frags/iter1_frags_hits.sdf']
+
+$$$$
+A0759a
+     RDKit          3D
+
+ 15 16  0  0  0  0  0  0  0  0999 V2000
+  -34.5310   -4.3230   -3.2390 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5790   -2.5620   -9.5110 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.6940   -2.8590   -8.7700 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -33.2850   -3.8840   -3.9870 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -33.3380   -4.2710   -5.4580 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -32.0470   -4.5780   -7.4970 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.8450   -4.1790   -8.3300 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.9030   -5.1270   -8.6810 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.7770   -4.8170   -9.4520 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.6450   -3.5200   -9.8470 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.8950   -1.5510  -10.5780 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -32.0600   -4.0240   -6.1480 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -33.1010   -2.4750   -3.8600 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.6450   -2.9570  -10.6070 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.2020   -1.3470  -10.0410 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0
+  4  1  1  1
+  5  4  1  0
+  7  6  1  0
+  7  3  1  0
+  8  7  2  0
+  9  8  1  0
+ 10  9  2  0
+ 10  2  1  0
+ 12  5  1  0
+ 12  6  1  0
+ 13  4  1  0
+ 14 11  1  0
+ 14 10  1  0
+ 15 11  1  0
+ 15  2  1  0
+M  END
+>  <id>  (3) 
+6
+
+>  <inchikey>  (3) 
+VIYPNISBCRFBOV-QMMMGPOBSA-N
+
+>  <alias>  (3) 
+A0759a
+
+>  <smiles>  (3) 
+C[C@H](O)CNCc1ccc2c(c1)OCO2
+
+>  <path>  (3) 
+/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/A71EV2AZ/aligned_files/A0759a/A0759a.pdb
+
+>  <distance_score>  (3) 
+None
+
+>  <energy_score>  (3) 
+None
+
+>  <compound>  (3) 
+VIYPNISBCRFBOV-UHFFFAOYSA-N
+
+>  <compound_id>  (3) 
+6
+
+>  <target>  (3) 
+A71EV2AZ
+
+>  <tags>  (3) 
+['hits', '[Other] FFF_iter1_frags', '[Other] upload_1 2025-01-30']
+
+>  <inspirations>  (3) 
+
+
+>  <reference>  (3) 
+
+
+>  <observation_longname>  (3) 
+A71EV2AZ-x0759_A_250_v1
+
+>  <ConformerSites alias>  (3) 
+1a - A0503/A/245
+
+>  <CanonSites alias>  (3) 
+1 - A0503/A/245/1
+
+>  <CrystalformSites alias>  (3) 
+F1a - A0229/A/301
+
+>  <Quatassemblies alias>  (3) 
+A1 - monomer
+
+>  <Crystalforms alias>  (3) 
+F1 - 1st_form
+
+>  <ConformerSites upload name>  (3) 
+1a - A71EV2AZ-x0503/A/245
+
+>  <CanonSites upload name>  (3) 
+1 - A71EV2AZ-x0503/A/245/1
+
+>  <CrystalformSites upload name>  (3) 
+F1a - A71EV2AZ-x0229/A/301/1
+
+>  <Quatassemblies upload name>  (3) 
+A1 - monomer
+
+>  <Crystalforms upload name>  (3) 
+F1 - 1st_form
+
+>  <ConformerSites short tag>  (3) 
+1a - A0503/A/245
+
+>  <CanonSites short tag>  (3) 
+1 - A0503/A/245/1
+
+>  <CrystalformSites short tag>  (3) 
+F1a - A0229/A/301
+
+>  <Quatassemblies short tag>  (3) 
+A1 - monomer
+
+>  <Crystalforms short tag>  (3) 
+F1 - 1st_form
+
+>  <Centroid res>  (3) 
+A71EV2AZ-x0503/A/112/A_v1
+
+>  <Experiment code>  (3) 
+A71EV2AZ-x0759
+
+>  <Pose>  (3) 
+A0759a
+
+>  <exports>  (3) 
+['/opt/xchem-fragalysis-2/maxwin/2A_Precursor_FFF/knitwork/iter1_frags/iter1_frags_hits.sdf']
+
+$$$$
