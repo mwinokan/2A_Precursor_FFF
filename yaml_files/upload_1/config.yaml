@@ -1,0 +1,57 @@
+target_name: A71EV2AZ
+base_dir: /
+ref_datasets: 
+  - A71EV2AZ-x0053-ground-state
+  - final_A71EV2A-x004_refinement_refmac
+  - A71EV2A-x004_refinement_ref_4_ryan
+panddas_missing_ok: [  ]
+inputs:
+  - dir: dls/labxchem/data/lb32627/lb32627-352
+    type: model_building
+    code_prefix: "A"
+    code_prefix_tooltip: "A71 2A-precursor structures"
+    soakdb: processing/database/soakDBDataFile.sqlite
+    exclude: [ 
+      A71EV2AZ-x0054,
+      A71EV2AZ-x0064,
+      A71EV2AZ-x0083,
+      A71EV2AZ-x0104,
+      A71EV2AZ-x0113,
+      A71EV2AZ-x0136,
+      # A71EV2AZ-x0229,
+      A71EV2AZ-x0238,
+      A71EV2AZ-x0270,
+      A71EV2AZ-x0277,
+      A71EV2AZ-x0312,
+      A71EV2AZ-x0337,
+      A71EV2AZ-x0349,
+      A71EV2AZ-x0363,
+      A71EV2AZ-x0376,
+      A71EV2AZ-x0380,
+      A71EV2AZ-x0416,
+      A71EV2AZ-x0417,
+      A71EV2AZ-x0428,
+      A71EV2AZ-x0433,
+      A71EV2AZ-x0439,
+      A71EV2AZ-x0442,
+      A71EV2AZ-x0445,
+      A71EV2AZ-x0459,
+      # A71EV2AZ-x0503,
+      A71EV2AZ-x0514,
+      A71EV2AZ-x0529,
+      A71EV2AZ-x0535,
+      A71EV2AZ-x0600,
+      A71EV2AZ-x0609,
+      # A71EV2AZ-x0759,
+      A71EV2AZ-x0792,
+      ]
+    panddas_event_files:
+    - processing/analysis/pandda2_20240812/analyses/pandda_inspect_events.csv
+    - processing/analysis/pandda2_20241004/analyses/pandda_inspect_events.csv
+    - processing/analysis/pandda2_20241011/analyses/pandda_inspect_events.csv
+    - processing/analysis/pandda2_prescreen_ryan_070824/analyses/pandda_inspect_events.csv
+  - dir: dls/labxchem/data/lb32627/lb32627-352/processing/reference
+    type: manual
+    code_prefix: ""
+    code_prefix_tooltip: ""
+

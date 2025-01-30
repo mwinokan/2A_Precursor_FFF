@@ -1,0 +1,340 @@
+crystalforms:
+  1st_form:
+    xtalform_ref: A71EV2AZ-x0053-ground-state
+    xtalform_space_group: P 61
+    xtalform_cell: {a: 62.13, b: 62.13, c: 78.483, alpha: 90.0, beta: 90.0, gamma: 120.0}
+  2nd_form:
+    xtalform_ref: final_A71EV2A-x004_refinement_refmac
+    xtalform_space_group: P 61
+    xtalform_cell: {a: 61.544, b: 61.544, c: 78.932, alpha: 90.0, beta: 90.0, gamma: 120.0}
+  3rd_form:
+    xtalform_ref: A71EV2A-x004_refinement_ref_4_ryan
+    xtalform_space_group: P 61
+    xtalform_cell: {a: 61.544, b: 61.544, c: 78.932, alpha: 90.0, beta: 90.0, gamma: 120.0}
+conformer_sites:
+  A71EV2AZ-x0239+A+245+1:
+    members: [A71EV2AZ-x0239/A/245/1, A71EV2AZ-x0446/A/245/1]
+    reference_ligand_id: A71EV2AZ-x0239/A/245/1
+    residues: [A/113/ILE, A/114/LEU, A/115/ARG, A/116/CYS, A/117/GLN, A/118/HIS, A/119/GLY,
+      A/120/VAL, A/121/VAL, A/246/DMS, A/58/CYS, A/59/GLN, A/60/THR, A/61/GLY, A/62/VAL,
+      A/63/TYR, A/71/HIS, A/72/TYR, A/73/PRO, A/74/VAL, A/75/SER, A/76/PHE]
+    residues_aligned: [A/113/ILE, A/114/LEU, A/115/ARG, A/116/CYS, A/117/GLN, A/118/HIS,
+      A/119/GLY, A/120/VAL, A/121/VAL, A/246/DMS, A/58/CYS, A/59/GLN, A/60/THR, A/61/GLY,
+      A/62/VAL, A/63/TYR, A/71/HIS, A/72/TYR, A/73/PRO, A/74/VAL, A/75/SER, A/76/PHE]
+  A71EV2AZ-x0423+A+301+1:
+    members: [A71EV2AZ-x0423/A/301/1]
+    reference_ligand_id: A71EV2AZ-x0423/A/301/1
+    residues: [A/100/LEU, A/101/ALA, A/102/VAL, A/103/GLY, A/130/GLY, A/131/LEU, A/132/VAL,
+      A/133/GLY, A/134/PHE, A/57/ASN, A/58/CYS, A/59/GLN, A/60/THR, A/61/GLY, A/74/VAL,
+      A/75/SER, A/76/PHE, A/77/SER, A/78/LYS, A/80/SER, A/82/ILE, A/98/LEU, A/99/MET]
+    residues_aligned: [A/100/LEU, A/101/ALA, A/102/VAL, A/103/GLY, A/130/GLY, A/131/LEU,
+      A/132/VAL, A/133/GLY, A/134/PHE, A/57/ASN, A/58/CYS, A/59/GLN, A/60/THR, A/61/GLY,
+      A/74/VAL, A/75/SER, A/76/PHE, A/77/SER, A/78/LYS, A/80/SER, A/82/ILE, A/98/LEU,
+      A/99/MET]
+  A71EV2AZ-x0503+A+245+1:
+    members: [A71EV2AZ-x0229/A/301/1, A71EV2AZ-x0503/A/245/1, A71EV2AZ-x0759/A/250/1]
+    reference_ligand_id: A71EV2AZ-x0503/A/245/1
+    residues: [A/0/LEU, A/1/GLY, A/106/GLU, A/107/PRO, A/108/GLY, A/109/ASP, A/11/TYR,
+      A/110/ALA, A/111/GLY, A/112/GLY, A/113/ILE, A/114/LEU, A/115/ARG, A/123/ILE,
+      A/124/VAL, A/16/ARG, A/19/ASN, A/2/LYS, A/22/LEU, A/63/TYR, A/64/TYR, A/65/CYS,
+      A/66/ASN, A/67/SER, A/69/ARG, A/7/SER, A/71/HIS, A/8/GLY, A/9/ALA]
+    residues_aligned: [A/0/LEU, A/1/GLY, A/106/GLU, A/107/PRO, A/108/GLY, A/109/ASP,
+      A/11/TYR, A/110/ALA, A/111/GLY, A/112/GLY, A/113/ILE, A/114/LEU, A/115/ARG,
+      A/123/ILE, A/124/VAL, A/16/ARG, A/19/ASN, A/2/LYS, A/22/LEU, A/63/TYR, A/64/TYR,
+      A/65/CYS, A/66/ASN, A/67/SER, A/69/ARG, A/7/SER, A/71/HIS, A/8/GLY, A/9/ALA]
+canon_sites:
+  A71EV2AZ-x0239+A+245+1:
+    centroid_res: A71EV2AZ-x0239/A/61/A
+    conformer_site_ids: [A71EV2AZ-x0239+A+245+1]
+    global_reference_dtag: A71EV2AZ-x0503
+    reference_conformer_site_id: A71EV2AZ-x0239+A+245+1
+    residues: [A/113/ILE, A/114/LEU, A/115/ARG, A/116/CYS, A/117/GLN, A/118/HIS, A/119/GLY,
+      A/120/VAL, A/121/VAL, A/246/DMS, A/58/CYS, A/59/GLN, A/60/THR, A/61/GLY, A/62/VAL,
+      A/63/TYR, A/71/HIS, A/72/TYR, A/73/PRO, A/74/VAL, A/75/SER, A/76/PHE]
+  A71EV2AZ-x0423+A+301+1:
+    centroid_res: A71EV2AZ-x0423/A/76/A
+    conformer_site_ids: [A71EV2AZ-x0423+A+301+1]
+    global_reference_dtag: A71EV2AZ-x0503
+    reference_conformer_site_id: A71EV2AZ-x0423+A+301+1
+    residues: [A/100/LEU, A/101/ALA, A/102/VAL, A/103/GLY, A/130/GLY, A/131/LEU, A/132/VAL,
+      A/133/GLY, A/134/PHE, A/57/ASN, A/58/CYS, A/59/GLN, A/60/THR, A/61/GLY, A/74/VAL,
+      A/75/SER, A/76/PHE, A/77/SER, A/78/LYS, A/80/SER, A/82/ILE, A/98/LEU, A/99/MET]
+  A71EV2AZ-x0503+A+245+1:
+    centroid_res: A71EV2AZ-x0503/A/112/A
+    conformer_site_ids: [A71EV2AZ-x0503+A+245+1]
+    global_reference_dtag: A71EV2AZ-x0503
+    reference_conformer_site_id: A71EV2AZ-x0503+A+245+1
+    residues: [A/0/LEU, A/1/GLY, A/106/GLU, A/107/PRO, A/108/GLY, A/109/ASP, A/11/TYR,
+      A/110/ALA, A/111/GLY, A/112/GLY, A/113/ILE, A/114/LEU, A/115/ARG, A/123/ILE,
+      A/124/VAL, A/16/ARG, A/19/ASN, A/2/LYS, A/22/LEU, A/63/TYR, A/64/TYR, A/65/CYS,
+      A/66/ASN, A/67/SER, A/69/ARG, A/7/SER, A/71/HIS, A/8/GLY, A/9/ALA]
+xtalform_sites:
+  A71EV2AZ-x0229/A/301/1:
+    canonical_site_id: A71EV2AZ-x0503+A+245+1
+    crystallographic_chain: A
+    members: [A71EV2AZ-x0229/A/301/1, A71EV2AZ-x0503/A/245/1, A71EV2AZ-x0759/A/250/1]
+    xtalform_id: 1st_form
+  A71EV2AZ-x0239/A/245/1:
+    canonical_site_id: A71EV2AZ-x0239+A+245+1
+    crystallographic_chain: A
+    members: [A71EV2AZ-x0239/A/245/1, A71EV2AZ-x0446/A/245/1]
+    xtalform_id: 1st_form
+  A71EV2AZ-x0423/A/301/1:
+    canonical_site_id: A71EV2AZ-x0423+A+301+1
+    crystallographic_chain: A
+    members: [A71EV2AZ-x0423/A/301/1]
+    xtalform_id: 1st_form
+crystals:
+  A71EV2AZ-x0229:
+    assigned_xtalform: 1st_form
+    aligned_files:
+      A:
+        '301':
+          '1':
+            A71EV2AZ-x0503+A+245+1: {structure: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1.pdb,
+              sigmaa_map: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_sigmaa.ccp4,
+              diff_map: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_diff.ccp4,
+              sigmaa_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_sigmaa_crystallographic.ccp4,
+              diff_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_diff_crystallographic.ccp4,
+              event_map: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_event.ccp4,
+              event_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_event_crystallographic.ccp4,
+              pdb_apo: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_apo.pdb,
+              pdb_apo_solv: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_apo-solv.pdb,
+              pdb_apo_desolv: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_apo-desolv.pdb,
+              ligand_mol: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_ligand.mol,
+              ligand_sdf: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_ligand.sdf,
+              ligand_pdb: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_ligand.pdb,
+              ligand_smiles: upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_ligand.smi,
+              ligand_name: LIG, ligand_smiles_string: 'COc1ccc2[nH]cc(CN(C)C)c2c1'}
+  A71EV2AZ-x0239:
+    assigned_xtalform: 1st_form
+    aligned_files:
+      A:
+        '245':
+          '1':
+            A71EV2AZ-x0239+A+245+1: {structure: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1.pdb,
+              sigmaa_map: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_sigmaa.ccp4,
+              diff_map: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_diff.ccp4,
+              sigmaa_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_sigmaa_crystallographic.ccp4,
+              diff_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_diff_crystallographic.ccp4,
+              event_map: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_event.ccp4,
+              event_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_event_crystallographic.ccp4,
+              pdb_apo: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_apo.pdb,
+              pdb_apo_solv: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_apo-solv.pdb,
+              pdb_apo_desolv: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_apo-desolv.pdb,
+              ligand_mol: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_ligand.mol,
+              ligand_sdf: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_ligand.sdf,
+              ligand_pdb: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_ligand.pdb,
+              ligand_smiles: upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_ligand.smi,
+              ligand_name: LIG, ligand_smiles_string: 'C[C@@H](Cc1ccc(Br)cc1)C(N)=O'}
+  A71EV2AZ-x0423:
+    assigned_xtalform: 1st_form
+    aligned_files:
+      A:
+        '301':
+          '1':
+            A71EV2AZ-x0423+A+301+1: {structure: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1.pdb,
+              sigmaa_map: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_sigmaa.ccp4,
+              diff_map: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_diff.ccp4,
+              sigmaa_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_sigmaa_crystallographic.ccp4,
+              diff_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_diff_crystallographic.ccp4,
+              event_map: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_event.ccp4,
+              event_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_event_crystallographic.ccp4,
+              pdb_apo: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_apo.pdb,
+              pdb_apo_solv: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_apo-solv.pdb,
+              pdb_apo_desolv: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_apo-desolv.pdb,
+              ligand_mol: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_ligand.mol,
+              ligand_sdf: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_ligand.sdf,
+              ligand_pdb: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_ligand.pdb,
+              ligand_smiles: upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_ligand.smi,
+              ligand_name: LIG, ligand_smiles_string: 'O=C(Nc1ccccn1)[C@H]1COCCO1'}
+  A71EV2AZ-x0446:
+    assigned_xtalform: 1st_form
+    aligned_files:
+      A:
+        '245':
+          '1':
+            A71EV2AZ-x0239+A+245+1: {structure: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1.pdb,
+              sigmaa_map: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_sigmaa.ccp4,
+              diff_map: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_diff.ccp4,
+              sigmaa_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_sigmaa_crystallographic.ccp4,
+              diff_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_diff_crystallographic.ccp4,
+              event_map: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_event.ccp4,
+              event_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_event_crystallographic.ccp4,
+              pdb_apo: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_apo.pdb,
+              pdb_apo_solv: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_apo-solv.pdb,
+              pdb_apo_desolv: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_apo-desolv.pdb,
+              ligand_mol: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_ligand.mol,
+              ligand_sdf: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_ligand.sdf,
+              ligand_pdb: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_ligand.pdb,
+              ligand_smiles: upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_ligand.smi,
+              ligand_name: LIG, ligand_smiles_string: Cc1ncsc1C(=O)NCC1CCCC1}
+  A71EV2AZ-x0503:
+    assigned_xtalform: 1st_form
+    aligned_files:
+      A:
+        '245':
+          '1':
+            A71EV2AZ-x0503+A+245+1: {structure: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1.pdb,
+              sigmaa_map: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_sigmaa.ccp4,
+              diff_map: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_diff.ccp4,
+              sigmaa_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_sigmaa_crystallographic.ccp4,
+              diff_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_diff_crystallographic.ccp4,
+              event_map: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_event.ccp4,
+              event_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_event_crystallographic.ccp4,
+              pdb_apo: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_apo.pdb,
+              pdb_apo_solv: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_apo-solv.pdb,
+              pdb_apo_desolv: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_apo-desolv.pdb,
+              ligand_mol: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_ligand.mol,
+              ligand_sdf: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_ligand.sdf,
+              ligand_pdb: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_ligand.pdb,
+              ligand_smiles: upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_ligand.smi,
+              ligand_name: LIG, ligand_smiles_string: Cc1nc2ccccc2n1CCC(N)=O}
+  A71EV2AZ-x0759:
+    assigned_xtalform: 1st_form
+    aligned_files:
+      A:
+        '250':
+          '1':
+            A71EV2AZ-x0503+A+245+1: {structure: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1.pdb,
+              sigmaa_map: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_sigmaa.ccp4,
+              diff_map: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_diff.ccp4,
+              sigmaa_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_sigmaa_crystallographic.ccp4,
+              diff_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_diff_crystallographic.ccp4,
+              event_map: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_event.ccp4,
+              event_map_crystallographic: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_event_crystallographic.ccp4,
+              pdb_apo: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_apo.pdb,
+              pdb_apo_solv: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_apo-solv.pdb,
+              pdb_apo_desolv: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_apo-desolv.pdb,
+              ligand_mol: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_ligand.mol,
+              ligand_sdf: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_ligand.sdf,
+              ligand_pdb: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_ligand.pdb,
+              ligand_smiles: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_ligand.smi,
+              ligand_name: LIG, ligand_smiles_string: 'C[C@H](O)CNCc1ccc2c(c1)OCO2'}
+  final_A71EV2A-x004_refinement_refmac: {assigned_xtalform: 2nd_form}
+  A71EV2A-x004_refinement_ref_4_ryan: {assigned_xtalform: 2nd_form}
+  A71EV2AZ-x0053-ground-state: {assigned_xtalform: 1st_form}
+reference_aligned_files:
+  final_A71EV2A-x004_refinement_refmac:
+    A71EV2AZ-x0503+A+245+1: {aligned_structures: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0503+A+245+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0503+A+245+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0503+A+245+1_ref.ccp4}
+    A71EV2AZ-x0239+A+245+1: {aligned_structures: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0239+A+245+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0239+A+245+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0239+A+245+1_ref.ccp4}
+    A71EV2AZ-x0423+A+301+1: {aligned_structures: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_ref.ccp4}
+  A71EV2A-x004_refinement_ref_4_ryan:
+    A71EV2AZ-x0503+A+245+1: {aligned_structures: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0503+A+245+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0503+A+245+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0503+A+245+1_ref.ccp4}
+    A71EV2AZ-x0239+A+245+1: {aligned_structures: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0239+A+245+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0239+A+245+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0239+A+245+1_ref.ccp4}
+    A71EV2AZ-x0423+A+301+1: {aligned_structures: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0423+A+301+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0423+A+301+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0423+A+301+1_ref.ccp4}
+  A71EV2AZ-x0053-ground-state:
+    A71EV2AZ-x0503+A+245+1: {aligned_structures: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0503+A+245+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0503+A+245+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0503+A+245+1_ref.ccp4}
+    A71EV2AZ-x0239+A+245+1: {aligned_structures: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0239+A+245+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0239+A+245+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0239+A+245+1_ref.ccp4}
+    A71EV2AZ-x0423+A+301+1: {aligned_structures: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0423+A+301+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0423+A+301+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0423+A+301+1_ref.ccp4}
+transforms:
+  observation_to_conformer:
+    A71EV2AZ-x0229/A/301/1~A71EV2AZ-x0229/A/301/1:
+      mat:
+      - [1.0, 0.0, -0.0]
+      - [-0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [-0.0, -0.0, -0.0]
+    A71EV2AZ-x0229/A/301/1~A71EV2AZ-x0503/A/245/1:
+      mat:
+      - [0.9993229815526853, -0.0005690779604289056, -0.03678661021249648]
+      - [0.0003156104144190579, 0.999976174903064, -0.0068956519853202265]
+      - [0.036789657931509866, 0.0068793732644256665, 0.9992993521927106]
+      vec: [-0.4487399164963053, 0.1625778361722387, 0.9304335548387971]
+    A71EV2AZ-x0239/A/245/1~A71EV2AZ-x0239/A/245/1:
+      mat:
+      - [1.0, 0.0, 0.0]
+      - [0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [-0.0, -0.0, -0.0]
+    A71EV2AZ-x0239/A/245/1~A71EV2AZ-x0446/A/245/1:
+      mat:
+      - [0.9995967775741933, 0.026979352562765395, -0.008854196665034019]
+      - [-0.02725863868369369, 0.9990801095307559, -0.033104400872464926]
+      - [0.00795291647139169, 0.033332405783366784, 0.9994126784488438]
+      vec: [0.04187755411547044, -0.7135379939896069, 0.06449021143361952]
+    A71EV2AZ-x0423/A/301/1~A71EV2AZ-x0423/A/301/1:
+      mat:
+      - [1.0, 0.0, -0.0]
+      - [-0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [-0.0, -0.0, -0.0]
+    A71EV2AZ-x0446/A/245/1~A71EV2AZ-x0239/A/245/1:
+      mat:
+      - [0.999596777574193, -0.027258638683693683, 0.007952916471391689]
+      - [0.02697935256276539, 0.9990801095307558, 0.03333240578336678]
+      - [-0.008854196665034017, -0.03310440087246493, 0.9994126784488437]
+      vec: [-0.0618236277765174, 0.7096021739959841, -0.08770279063338338]
+    A71EV2AZ-x0446/A/245/1~A71EV2AZ-x0446/A/245/1:
+      mat:
+      - [1.0, 0.0, 0.0]
+      - [0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [-0.0, -0.0, -0.0]
+    A71EV2AZ-x0503/A/245/1~A71EV2AZ-x0229/A/301/1:
+      mat:
+      - [0.9993229815526855, 0.000315610414419058, 0.036789657931509866]
+      - [-0.0005690779604289056, 0.9999761749030643, 0.0068793732644256665]
+      - [-0.03678661021249648, -0.006895651985320229, 0.9992993521927106]
+      vec: [0.41415446782602316, -0.1692301304574576, -0.9451681888249386]
+    A71EV2AZ-x0503/A/245/1~A71EV2AZ-x0503/A/245/1:
+      mat:
+      - [1.0, 0.0, 0.0]
+      - [0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [-0.0, -0.0, -0.0]
+    A71EV2AZ-x0503/A/245/1~A71EV2AZ-x0759/A/250/1:
+      mat:
+      - [0.9982087023956128, -0.05938582953762506, 0.0072601454389708015]
+      - [0.05957181669007687, 0.9978067609941507, -0.028859424294432025]
+      - [-0.005530381353102776, 0.029240228530063087, 0.9995571138847439]
+      vec: [0.2573378894066415, 0.8750017306316422, -0.05739580013624822]
+    A71EV2AZ-x0759/A/250/1~A71EV2AZ-x0503/A/245/1:
+      mat:
+      - [0.998208702395613, 0.05957181669007688, -0.005530381353102777]
+      - [-0.05938582953762505, 0.9978067609941506, 0.029240228530063087]
+      - [0.007260145438970803, -0.028859424294432032, 0.9995571138847441]
+      vec: [-0.30931978402533744, -0.8561221523593102, 0.08075411603190474]
+    A71EV2AZ-x0759/A/250/1~A71EV2AZ-x0759/A/250/1:
+      mat:
+      - [1.0, 0.0, 0.0]
+      - [0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [-0.0, -0.0, -0.0]
+  conformer_to_canon:
+    A71EV2AZ-x0239+A+245+1~A71EV2AZ-x0239+A+245+1:
+      mat:
+      - [1.0, 0.0, 0.0]
+      - [0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [0.0, 0.0, 0.0]
+    A71EV2AZ-x0423+A+301+1~A71EV2AZ-x0423+A+301+1:
+      mat:
+      - [1.0, -0.0, 0.0]
+      - [0.0, 1.0, 0.0]
+      - [-0.0, 0.0, 1.0]
+      vec: [0.0, 0.0, 0.0]
+    A71EV2AZ-x0503+A+245+1~A71EV2AZ-x0503+A+245+1:
+      mat:
+      - [1.0, 0.0, 0.0]
+      - [0.0, 1.0, 0.0]
+      - [0.0, 0.0, 1.0]
+      vec: [0.0, 0.0, 0.0]

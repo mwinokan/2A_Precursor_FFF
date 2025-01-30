@@ -1,0 +1,24 @@
+assemblies:
+    monomer:
+        reference: A71EV2AZ-x0053-ground-state
+        biomol: A
+        chains: A
+crystalforms:
+    1st_form:
+        reference: A71EV2AZ-x0053-ground-state
+        assemblies:
+            1:
+                assembly: monomer
+                chains: A
+    2nd_form:
+        reference: final_A71EV2A-x004_refinement_refmac
+        assemblies:
+            1:
+                assembly: monomer
+                chains: A
+    3rd_form:
+        reference: A71EV2A-x004_refinement_ref_4_ryan
+        assemblies:
+            1:
+                assembly: monomer
+                chains: A

@@ -1,0 +1,179 @@
+alignability_graph: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/alignability.gml
+alignments:
+  A71EV2AZ-x0229:
+    A:
+      '301':
+        '1':
+          aligned_artefacts:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_artefacts.pdb
+          aligned_diff_maps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_diff.ccp4
+          aligned_diff_maps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_diff_crystallographic.ccp4
+          aligned_event_maps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_event.ccp4
+          aligned_event_maps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_event_crystallographic.ccp4
+          aligned_structures:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1.pdb
+          aligned_xmaps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_sigmaa.ccp4
+          aligned_xmaps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0229/A71EV2AZ-x0229_A_301_1_A71EV2AZ-x0503+A+245+1_sigmaa_crystallographic.ccp4
+  A71EV2AZ-x0239:
+    A:
+      '245':
+        '1':
+          aligned_artefacts:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_artefacts.pdb
+          aligned_diff_maps:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_diff.ccp4
+          aligned_diff_maps_crystallographic:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_diff_crystallographic.ccp4
+          aligned_event_maps:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_event.ccp4
+          aligned_event_maps_crystallographic:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_event_crystallographic.ccp4
+          aligned_structures:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1.pdb
+          aligned_xmaps:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_sigmaa.ccp4
+          aligned_xmaps_crystallographic:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0239/A71EV2AZ-x0239_A_245_1_A71EV2AZ-x0239+A+245+1_sigmaa_crystallographic.ccp4
+  A71EV2AZ-x0423:
+    A:
+      '301':
+        '1':
+          aligned_artefacts:
+            A71EV2AZ-x0423+A+301+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_artefacts.pdb
+          aligned_diff_maps:
+            A71EV2AZ-x0423+A+301+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_diff.ccp4
+          aligned_diff_maps_crystallographic:
+            A71EV2AZ-x0423+A+301+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_diff_crystallographic.ccp4
+          aligned_event_maps:
+            A71EV2AZ-x0423+A+301+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_event.ccp4
+          aligned_event_maps_crystallographic:
+            A71EV2AZ-x0423+A+301+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_event_crystallographic.ccp4
+          aligned_structures:
+            A71EV2AZ-x0423+A+301+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1.pdb
+          aligned_xmaps:
+            A71EV2AZ-x0423+A+301+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_sigmaa.ccp4
+          aligned_xmaps_crystallographic:
+            A71EV2AZ-x0423+A+301+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0423/A71EV2AZ-x0423_A_301_1_A71EV2AZ-x0423+A+301+1_sigmaa_crystallographic.ccp4
+  A71EV2AZ-x0446:
+    A:
+      '245':
+        '1':
+          aligned_artefacts:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_artefacts.pdb
+          aligned_diff_maps:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_diff.ccp4
+          aligned_diff_maps_crystallographic:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_diff_crystallographic.ccp4
+          aligned_event_maps:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_event.ccp4
+          aligned_event_maps_crystallographic:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_event_crystallographic.ccp4
+          aligned_structures:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1.pdb
+          aligned_xmaps:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_sigmaa.ccp4
+          aligned_xmaps_crystallographic:
+            A71EV2AZ-x0239+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0446/A71EV2AZ-x0446_A_245_1_A71EV2AZ-x0239+A+245+1_sigmaa_crystallographic.ccp4
+  A71EV2AZ-x0503:
+    A:
+      '245':
+        '1':
+          aligned_artefacts:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_artefacts.pdb
+          aligned_diff_maps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_diff.ccp4
+          aligned_diff_maps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_diff_crystallographic.ccp4
+          aligned_event_maps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_event.ccp4
+          aligned_event_maps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_event_crystallographic.ccp4
+          aligned_structures:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1.pdb
+          aligned_xmaps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_sigmaa.ccp4
+          aligned_xmaps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0503/A71EV2AZ-x0503_A_245_1_A71EV2AZ-x0503+A+245+1_sigmaa_crystallographic.ccp4
+  A71EV2AZ-x0759:
+    A:
+      '250':
+        '1':
+          aligned_artefacts:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_artefacts.pdb
+          aligned_diff_maps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_diff.ccp4
+          aligned_diff_maps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_diff_crystallographic.ccp4
+          aligned_event_maps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_event.ccp4
+          aligned_event_maps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_event_crystallographic.ccp4
+          aligned_structures:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1.pdb
+          aligned_xmaps:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_sigmaa.ccp4
+          aligned_xmaps_crystallographic:
+            A71EV2AZ-x0503+A+245+1: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_sigmaa_crystallographic.ccp4
+assembly_landmarks: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/assembly_landmarks.yaml
+assembly_transforms: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/assembly_transforms.yaml
+biochain_priorities: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/biochain_priorities.yaml
+canonical_sites: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/canonical_sites.yaml
+chain_to_assembly: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/chain_to_assembly.yaml
+conformer_site_transforms: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/conformer_site_transforms.yaml
+conformer_sites: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/conformer_sites.yaml
+connected_components: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/connected_components.yaml
+crystalforms: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/assemblies.yaml
+dataset_assignments: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/assigned_xtalforms.yaml
+fs_model: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/fs_model.yaml
+hierarchy: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/hierarchy.yaml
+ligand_neighbourhood_transforms: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/neighbourhood_transforms.yaml
+ligand_neighbourhoods: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/neighbourhoods.yaml
+reference_alignments:
+  A71EV2A-x004_refinement_ref_4_ryan:
+    A71EV2AZ-x0239+A+245+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0239+A+245+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0239+A+245+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0239+A+245+1_ref.ccp4
+    A71EV2AZ-x0423+A+301+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0423+A+301+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0423+A+301+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0423+A+301+1_ref.ccp4
+    A71EV2AZ-x0503+A+245+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0503+A+245+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0503+A+245+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0503+A+245+1_ref.ccp4
+  A71EV2AZ-x0053-ground-state:
+    A71EV2AZ-x0239+A+245+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0239+A+245+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0239+A+245+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0239+A+245+1_ref.ccp4
+    A71EV2AZ-x0423+A+301+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0423+A+301+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0423+A+301+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0423+A+301+1_ref.ccp4
+    A71EV2AZ-x0503+A+245+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0503+A+245+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0503+A+245+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state_A71EV2AZ-x0503+A+245+1_ref.ccp4
+  final_A71EV2A-x004_refinement_refmac:
+    A71EV2AZ-x0239+A+245+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0239+A+245+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0239+A+245+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0239+A+245+1_ref.ccp4
+    A71EV2AZ-x0423+A+301+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_ref.ccp4
+    A71EV2AZ-x0503+A+245+1:
+      aligned_artefacts: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0503+A+245+1_artefacts_ref.pdb
+      aligned_structures: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0503+A+245+1_ref.pdb
+      aligned_xmaps: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0503+A+245+1_ref.ccp4
+reference_structure_transforms: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/reference_structure_transforms.yaml
+source_dir: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1
+xtalform_sites: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/upload_1/xtalform_sites.yaml

@@ -1,0 +1,255 @@
+run_on: '2025-01-30 08:47:30.208821'
+collator_cwd: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-v2
+collator_config_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/config.yaml
+input_dirs:
+- /dls/labxchem/data/lb32627/lb32627-352
+- /dls/labxchem/data/lb32627/lb32627-352/processing/reference
+output_dir: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current
+data_format_version: 2.2
+version_number: 1
+version_dir: upload_1
+previous_version_dirs: []
+xca_git_info:
+  origin_url: https://github.com/xchem/xchem-align.git
+  branch: master
+  sha: f2bb6f29de5ec612bf417f150a1dcdbf342cf015
+  tag: 2.2.0
+  dirty: false
+code_prefix_tooltips:
+  A: A71 2A-precursor structures
+crystals:
+  A71EV2AZ-x0229:
+    type: model_building
+    last_updated: '2025-01-30 07:33:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0229/A71EV2AZ-x0229.pdb
+        sha256: eff9ff2cd1a7315371afe99ec93ad46720837e8312393d7c2767d7332d6a3d26
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0229/Refine_0011/refine_11.split.bound-state.pdb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0229/A71EV2AZ-x0229.mtz
+        sha256: 11d58098731465014e694b3235cee986d172c6ef91a44aca0b5c57ff77316b98
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0229/Refine_0011/refine_11.mtz
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0229/A71EV2AZ-x0229.cif
+        sha256: 41044aae277b4b18d587903ae0dcbc1be07b650a02172d781bc2ac724681d7a9
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0229/compound/Z1509140850.cif
+        ligands:
+          LIG:
+            compound_code: Z1509140850
+            modeled_smiles_soakdb: COC=1C=CC=2NC=C(CN(C)C)C2C1
+            modeled_smiles_canon: COc1ccc2[nH]cc(CN(C)C)c2c1
+            smiles: COc1ccc2[nH]cc(CN(C)C)c2c1
+      ligand_binding_events:
+      - file: upload_1/crystallographic_files/A71EV2AZ-x0229/A71EV2AZ-x0229_1_A_301.ccp4
+        sha256: 2a87300a303ced6377773b02b13866fcd7e472f281916bc44b408f466cfd1932
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/pandda2_20240812/processed_datasets/A71EV2AZ-x0229/A71EV2AZ-x0229-event_1_1-BDC_0.21_map.native.ccp4
+        model: '1'
+        chain: A
+        res: 301
+        name: LIG
+        index: 1
+        bdc: 0.21
+  A71EV2AZ-x0239:
+    type: model_building
+    last_updated: '2024-10-08 18:12:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0239/A71EV2AZ-x0239.pdb
+        sha256: 8ebd2f266ec9d6ed57193ef797129d4b4b3b121d37bb89ec27e53a66bf792ec5
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0239/Refine_0004/refine_4.split.bound-state.pdb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0239/A71EV2AZ-x0239.mtz
+        sha256: dde105f2587fea9cbc320123c76e966b2d104bd94875e83f5621895d405870b3
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0239/Refine_0004/refine_4.mtz
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0239/A71EV2AZ-x0239.cif
+        sha256: 6be6b3234a046c95398a550722a785487a2270beef803aa7e1b154983af39d97
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0239/compound/Z1551999220.cif
+        ligands:
+          LIG:
+            compound_code: Z1551999220
+            modeled_smiles_soakdb: CC(CC=1C=CC(Br)=CC1)C(=O)N
+            modeled_smiles_canon: CC(Cc1ccc(Br)cc1)C(N)=O
+            smiles: CC(Cc1ccc(Br)cc1)C(N)=O
+      ligand_binding_events:
+      - file: upload_1/crystallographic_files/A71EV2AZ-x0239/A71EV2AZ-x0239_1_A_245.ccp4
+        sha256: 52f9cf0addf20a4b67eec1920bd28c2ed64eaaa548492e12dac3ece007e9f049
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/pandda2_20241004/processed_datasets/A71EV2AZ-x0239/A71EV2AZ-x0239-event_1_1-BDC_0.25_map.native.ccp4
+        model: '1'
+        chain: A
+        res: 245
+        name: LIG
+        index: 1
+        bdc: 0.25
+  A71EV2AZ-x0423:
+    type: model_building
+    last_updated: '2024-10-08 18:13:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0423/A71EV2AZ-x0423.pdb
+        sha256: 319c958223ba68305cdcc1cdd74c9b53a34a64b81ba44c2adde9d3e8aea1e95b
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0423/Refine_0003/refine_3.split.bound-state.pdb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0423/A71EV2AZ-x0423.mtz
+        sha256: 5a02bb928ea1f471b740b379b973f9e1f8a33ea46145cdfb383885176dcf70bf
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0423/Refine_0003/refine_3.mtz
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0423/A71EV2AZ-x0423.cif
+        sha256: f4d62029274a41e748a2086021efc3aaf91b1efb4346eb4272dfbbb5bc23d426
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0423/compound/Z381474098.cif
+        ligands:
+          LIG:
+            compound_code: Z381474098
+            modeled_smiles_soakdb: O=C(NC=1C=CC=CN1)C2COCCO2
+            modeled_smiles_canon: O=C(Nc1ccccn1)C1COCCO1
+            smiles: O=C(Nc1ccccn1)C1COCCO1
+      ligand_binding_events:
+      - file: upload_1/crystallographic_files/A71EV2AZ-x0423/A71EV2AZ-x0423_1_A_301.ccp4
+        sha256: 050bd12bdf4b10bec64dce8244bb665435ae5d535763aa6a8fa27f4e72393743
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/pandda2_20241011/processed_datasets/A71EV2AZ-x0423/A71EV2AZ-x0423-event_2_1-BDC_0.28_map.native.ccp4
+        model: '1'
+        chain: A
+        res: 301
+        name: LIG
+        index: 2
+        bdc: 0.28
+  A71EV2AZ-x0446:
+    type: model_building
+    last_updated: '2024-10-15 15:52:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0446/A71EV2AZ-x0446.pdb
+        sha256: 6561f0b65d409457c5f71e965da610716f2f47d4702bba253a6c1535331391e3
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0446/Refine_0003/refine_3.split.bound-state.pdb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0446/A71EV2AZ-x0446.mtz
+        sha256: 4c5019fcd773dffd6bd95a3ed826939a51665f56467943c53e6dc5b7edad0226
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0446/Refine_0003/refine_3.mtz
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0446/A71EV2AZ-x0446.cif
+        sha256: 0098961a9881b52ac6693b7cda21105864d4ce06935ee690badd8dc88274fd0d
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0446/compound/Z420276166.cif
+        ligands:
+          LIG:
+            compound_code: Z420276166
+            modeled_smiles_soakdb: CC=1N=CSC1C(=O)NCC2CCCC2
+            modeled_smiles_canon: Cc1ncsc1C(=O)NCC1CCCC1
+            smiles: Cc1ncsc1C(=O)NCC1CCCC1
+      ligand_binding_events:
+      - file: upload_1/crystallographic_files/A71EV2AZ-x0446/A71EV2AZ-x0446_1_A_245.ccp4
+        sha256: 9e0045343f52578a4d9fbf0064e86be8a4edf29540ab8f79e3ba474ec919eb69
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/pandda2_20240812/processed_datasets/A71EV2AZ-x0446/A71EV2AZ-x0446-event_1_1-BDC_0.35_map.native.ccp4
+        model: '1'
+        chain: A
+        res: 245
+        name: LIG
+        index: 1
+        bdc: 0.35
+  A71EV2AZ-x0503:
+    type: model_building
+    last_updated: '2025-01-30 08:13:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0503/A71EV2AZ-x0503.pdb
+        sha256: e0330e9dca9ef9831d8c442f70a5e4a31fc8e4fd0985662fb02e0cf3ef31a902
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0503/Refine_0016/refine_16.split.bound-state.pdb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0503/A71EV2AZ-x0503.mtz
+        sha256: 06087fcdec09c13d2f2690c172f2f5ab50dc335656391cadd5cf7d66e65833b2
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0503/Refine_0016/refine_16.mtz
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0503/A71EV2AZ-x0503.cif
+        sha256: 092cf26a5f669b0e4b5fc4517de4b4e1379d2e03274d9836d85bfe96248b4613
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0503/compound/Z53116498.cif
+        ligands:
+          LIG:
+            compound_code: Z53116498
+            modeled_smiles_soakdb: CC1=NC=2C=CC=CC2N1CCC(=O)N
+            modeled_smiles_canon: Cc1nc2ccccc2n1CCC(N)=O
+            smiles: Cc1nc2ccccc2n1CCC(N)=O
+      ligand_binding_events:
+      - file: upload_1/crystallographic_files/A71EV2AZ-x0503/A71EV2AZ-x0503_1_A_245.ccp4
+        sha256: 63232f4a91ecffe255d528e13d43e88f926e753c4de9588af14e32768bb3ca99
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/pandda2_20241004/processed_datasets/A71EV2AZ-x0503/A71EV2AZ-x0503-event_1_1-BDC_0.16_map.native.ccp4
+        model: '1'
+        chain: A
+        res: 245
+        name: LIG
+        index: 1
+        bdc: 0.16
+  A71EV2AZ-x0759:
+    type: model_building
+    last_updated: '2025-01-30 08:13:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0759/A71EV2AZ-x0759.pdb
+        sha256: 18851617e12d6c55d6f0b10a176d8bd6af245d5b2aca8e1cbb4908a47c23a032
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0759/Refine_0015/refine_15.split.bound-state.pdb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0759/A71EV2AZ-x0759.mtz
+        sha256: 632bb1bcd13d40d670ad54f586849cba9da4ca9b6b66fae418dab1f7725cbc68
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0759/Refine_0015/refine_15.mtz
+      ligand_cif:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0759/A71EV2AZ-x0759.cif
+        sha256: fa45e8bf9bb8831f7d601036391eb4fdc16f4852146a479ce0f3beb72f1f94c9
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0759/compound/Z1889787519.cif
+        ligands:
+          LIG:
+            compound_code: Z1889787519
+            modeled_smiles_soakdb: C[C@H](O)CNCC=1C=CC=2OCOC2C1
+            modeled_smiles_canon: C[C@H](O)CNCc1ccc2c(c1)OCO2
+            smiles: C[C@H](O)CNCc1ccc2c(c1)OCO2
+      ligand_binding_events:
+      - file: upload_1/crystallographic_files/A71EV2AZ-x0759/A71EV2AZ-x0759_1_A_250.ccp4
+        sha256: 7f9527b39569e8b5eb0a706da5dab293b5eeba49e816fd653d8fa06ff4e6cb80
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/pandda2_20241004/processed_datasets/A71EV2AZ-x0759/A71EV2AZ-x0759-event_1_1-BDC_0.26_map.native.ccp4
+        model: '1'
+        chain: A
+        res: 250
+        name: LIG
+        index: 1
+        bdc: 0.26
+  final_A71EV2A-x004_refinement_refmac:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac.pdb
+        sha256: 409951a8c1a00aba1561d297c40b4d3c84fb9862fd849ff7832bf016de9b863d
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/final_A71EV2A-x004_refinement_refmac.pdb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac.mtz
+        sha256: 30feb77cd62efd534903b2ab527a9ca9f2e235d6ef32acd44f93a48d1d8ad95e
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/final_A71EV2A-x004_refinement_refmac.mtz
+  A71EV2A-x004_refinement_ref_4_ryan:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan.pdb
+        sha256: e637ceec69c2c82b941e303caf74ad279e29c87b15740753aee06ffbaa54ece4
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/A71EV2A-x004_refinement_ref_4_ryan.pdb
+  A71EV2AZ-x0053-ground-state:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state.pdb
+        sha256: 82efc8a88d0dc08f9023573cd1b489dc9d1cc7fdb775cff1278a4422afe70105
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/A71EV2AZ-x0053-ground-state.pdb

@@ -1,0 +1,169 @@
+run_on: '2025-01-30 08:47:30.208821'
+collator_cwd: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-v2
+collator_config_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/config.yaml
+input_dirs:
+- /dls/labxchem/data/lb32627/lb32627-352
+- /dls/labxchem/data/lb32627/lb32627-352/processing/reference
+output_dir: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current
+data_format_version: 2.2
+version_number: 1
+version_dir: upload_1
+previous_version_dirs: []
+xca_git_info:
+  origin_url: https://github.com/xchem/xchem-align.git
+  branch: master
+  sha: f2bb6f29de5ec612bf417f150a1dcdbf342cf015
+  tag: 2.2.0
+  dirty: false
+code_prefix_tooltips:
+  A: A71 2A-precursor structures
+crystals:
+  A71EV2AZ-x0229:
+    type: model_building
+    last_updated: '2025-01-30 07:33:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0229/Refine_0011/refine_11.split.bound-state.pdb
+        sha256: eff9ff2cd1a7315371afe99ec93ad46720837e8312393d7c2767d7332d6a3d26
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0229/Refine_0011/refine_11.mtz
+        sha256: 11d58098731465014e694b3235cee986d172c6ef91a44aca0b5c57ff77316b98
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0229/compound/Z1509140850.cif
+        sha256: 41044aae277b4b18d587903ae0dcbc1be07b650a02172d781bc2ac724681d7a9
+  A71EV2AZ-x0239:
+    type: model_building
+    last_updated: '2024-10-08 18:12:00'
+    refinement_outcome: 6 - Deposited
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0239/Refine_0004/refine_4.split.bound-state.pdb
+        sha256: 8ebd2f266ec9d6ed57193ef797129d4b4b3b121d37bb89ec27e53a66bf792ec5
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0239/Refine_0004/refine_4.mtz
+        sha256: dde105f2587fea9cbc320123c76e966b2d104bd94875e83f5621895d405870b3
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0239/compound/Z1551999220.cif
+        sha256: 6be6b3234a046c95398a550722a785487a2270beef803aa7e1b154983af39d97
+  A71EV2AZ-x0423:
+    type: model_building
+    last_updated: '2024-10-08 18:13:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0423/Refine_0003/refine_3.split.bound-state.pdb
+        sha256: 319c958223ba68305cdcc1cdd74c9b53a34a64b81ba44c2adde9d3e8aea1e95b
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0423/Refine_0003/refine_3.mtz
+        sha256: 5a02bb928ea1f471b740b379b973f9e1f8a33ea46145cdfb383885176dcf70bf
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0423/compound/Z381474098.cif
+        sha256: f4d62029274a41e748a2086021efc3aaf91b1efb4346eb4272dfbbb5bc23d426
+  A71EV2AZ-x0446:
+    type: model_building
+    last_updated: '2024-10-15 15:52:00'
+    refinement_outcome: 5 - Deposition ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0446/Refine_0003/refine_3.split.bound-state.pdb
+        sha256: 6561f0b65d409457c5f71e965da610716f2f47d4702bba253a6c1535331391e3
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0446/Refine_0003/refine_3.mtz
+        sha256: 4c5019fcd773dffd6bd95a3ed826939a51665f56467943c53e6dc5b7edad0226
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0446/compound/Z420276166.cif
+        sha256: 0098961a9881b52ac6693b7cda21105864d4ce06935ee690badd8dc88274fd0d
+  A71EV2AZ-x0503:
+    type: model_building
+    last_updated: '2025-01-30 08:13:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0503/Refine_0016/refine_16.split.bound-state.pdb
+        sha256: e0330e9dca9ef9831d8c442f70a5e4a31fc8e4fd0985662fb02e0cf3ef31a902
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0503/Refine_0016/refine_16.mtz
+        sha256: 06087fcdec09c13d2f2690c172f2f5ab50dc335656391cadd5cf7d66e65833b2
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0503/compound/Z53116498.cif
+        sha256: 092cf26a5f669b0e4b5fc4517de4b4e1379d2e03274d9836d85bfe96248b4613
+  A71EV2AZ-x0759:
+    type: model_building
+    last_updated: '2025-01-30 08:13:00'
+    refinement_outcome: 4 - CompChem ready
+    code_prefix: A
+    crystallographic_files:
+      xtal_pdb:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0759/Refine_0015/refine_15.split.bound-state.pdb
+        sha256: 18851617e12d6c55d6f0b10a176d8bd6af245d5b2aca8e1cbb4908a47c23a032
+      xtal_mtz:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0759/Refine_0015/refine_15.mtz
+        sha256: 632bb1bcd13d40d670ad54f586849cba9da4ca9b6b66fae418dab1f7725cbc68
+      ligand_cif:
+        file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0759/compound/Z1889787519.cif
+        sha256: fa45e8bf9bb8831f7d601036391eb4fdc16f4852146a479ce0f3beb72f1f94c9
+  final_A71EV2A-x004_refinement_refmac:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - final_A71EV2A-x004_refinement_refmac.pdb
+        sha256: 409951a8c1a00aba1561d297c40b4d3c84fb9862fd849ff7832bf016de9b863d
+      xtal_mtz:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - final_A71EV2A-x004_refinement_refmac.mtz
+        sha256: 30feb77cd62efd534903b2ab527a9ca9f2e235d6ef32acd44f93a48d1d8ad95e
+  A71EV2A-x004_refinement_ref_4_ryan:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - A71EV2A-x004_refinement_ref_4_ryan.pdb
+        sha256: e637ceec69c2c82b941e303caf74ad279e29c87b15740753aee06ffbaa54ece4
+  A71EV2AZ-x0053-ground-state:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - A71EV2AZ-x0053-ground-state.pdb
+        sha256: 82efc8a88d0dc08f9023573cd1b489dc9d1cc7fdb775cff1278a4422afe70105

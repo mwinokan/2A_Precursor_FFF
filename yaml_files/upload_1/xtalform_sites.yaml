@@ -1,0 +1,21 @@
+A71EV2AZ-x0229/A/301/1:
+  canonical_site_id: A71EV2AZ-x0503+A+245+1
+  crystallographic_chain: A
+  members:
+  - A71EV2AZ-x0229/A/301/1
+  - A71EV2AZ-x0503/A/245/1
+  - A71EV2AZ-x0759/A/250/1
+  xtalform_id: 1st_form
+A71EV2AZ-x0239/A/245/1:
+  canonical_site_id: A71EV2AZ-x0239+A+245+1
+  crystallographic_chain: A
+  members:
+  - A71EV2AZ-x0239/A/245/1
+  - A71EV2AZ-x0446/A/245/1
+  xtalform_id: 1st_form
+A71EV2AZ-x0423/A/301/1:
+  canonical_site_id: A71EV2AZ-x0423+A+301+1
+  crystallographic_chain: A
+  members:
+  - A71EV2AZ-x0423/A/301/1
+  xtalform_id: 1st_form
