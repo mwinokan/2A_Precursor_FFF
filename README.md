@@ -12,36 +12,36 @@ Skip this section if you have run a FFF campaign with this template before
 
 ### Pre-requisites
 
-- [ ] SSH access to STFC/IRIS
-- [ ] Working directory in `cepheus-slurm:/opt/xchem-fragalysis-2/``
-- [ ] Set up [xchem/slurm](https://github.com/xchem/slurm)
-- [ ] Conda setup w/ `python >= 3.10`
-- [ ] Custom bashrc
-- [ ] Start a Jupyter notebook server
-- [ ] [BulkDock](https://github.com/mwinokan/BulkDock)
-- [ ] [HIPPO](https://github.com/mwinokan/HIPPO)
-- [ ] [Fragmenstein](https://github.com/matteoferla/Fragmenstein)
-- [ ] [FragmentKnitwork](https://github.com/xchem/FragmentKnitwork)
-- [ ] [syndirella](https://github.com/kate-fie/syndirella)
-- [ ] [EnamineCatalogs](https://github.com/mwinokan/EnamineCatalogs)
+- [x] SSH access to STFC/IRIS
+- [x] Working directory in `cepheus-slurm:/opt/xchem-fragalysis-2/``
+- [x] Set up [xchem/slurm](https://github.com/xchem/slurm)
+- [x] Conda setup w/ `python >= 3.10`
+- [x] Custom bashrc
+- [x] Start a Jupyter notebook server
+- [x] [BulkDock](https://github.com/mwinokan/BulkDock)
+- [x] [HIPPO](https://github.com/mwinokan/HIPPO)
+- [x] [Fragmenstein](https://github.com/matteoferla/Fragmenstein)
+- [x] [FragmentKnitwork](https://github.com/xchem/FragmentKnitwork)
+- [x] [syndirella](https://github.com/kate-fie/syndirella)
+- [x] [EnamineCatalogs](https://github.com/mwinokan/EnamineCatalogs)
 
 ### Checklist
 
-- [ ] you can ssh to IRIS (cepheus-slurm.diamond.ac.uk)
-- [ ] you can source a file to set up conda
-- [ ] you can connect to a Jupyter notebook on IRIS
-- [ ] you can run `python -m bulkdock status` from the BulkDock directory
-- [ ] you can `import hippo` from a notebook
-- [ ] you can run `fragmenstein --help`
-- [ ] you can ssh to the sw-graph VM (optional, only for Knitwork)
-- [ ] you can run `syndirella --help`
-- [ ] you have set up EnamineCatalogs
+- [x] you can ssh to IRIS (cepheus-slurm.diamond.ac.uk)
+- [x] you can source a file to set up conda
+- [x] you can connect to a Jupyter notebook on IRIS
+- [x] you can run `python -m bulkdock status` from the BulkDock directory
+- [x] you can `import hippo` from a notebook
+- [x] you can run `fragmenstein --help`
+- [x] you can ssh to the sw-graph VM (optional, only for Knitwork)
+- [x] you can run `syndirella --help`
+- [x] you have set up EnamineCatalogs
 
 ## 2. Setup
 
-- [ ] Define merging opportunities by creating tags of LHS hits in Fragalysis
-- [ ] Download target from Fragalysis and place the .zip archive in the repo
-- [ ] Setup target in BulkDock 
+- [x] Define merging opportunities by creating tags of LHS hits in Fragalysis
+- [x] Download target from Fragalysis and place the .zip archive in the repo
+- [x] Setup target in BulkDock 
 
 ```
 python -m bulkdock extract TARGET_NAME
@@ -50,14 +50,14 @@ python -m bulkdock setup TARGET_NAME
 
 ## 3. Compound Design
 
-- [ ] run the notebook `hippo/1_merge_prep.ipynb`
+- [x] run the notebook `hippo/1_merge_prep.ipynb`
 
 ### Fragmenstein
 
 For each merging hypothesis
 
-- [ ] go to the fragmenstein subdirectory `cd fragmenstein`
-- [ ] queue fragmenstein job 
+- [x] go to the fragmenstein subdirectory `cd fragmenstein`
+- [x] queue fragmenstein job 
 
 ```sb.sh --job-name "fragmenstein" $HOME2/slurm/run_bash_with_conda.sh run_fragmenstein.sh HYPOTHESIS_NICKNAME```
 
@@ -93,13 +93,13 @@ sb.sh --job-name "bulkdock_out" $HOME2/slurm/run_python.sh -m bulkdock to-fragal
 
 Running Fragment Knitting currently requires access to a specific VM known as `graph-sw2`. If you don't have access, skip this section
 
-- [ ] `git add`, `commit` and `push` the contents of `aligned_files` and `knitwork` to the repository
-- [ ] `git clone` the repository on `graph-sw2`
-- [ ] navigate to the `knitwork` subdirectory
+- [x] `git add`, `commit` and `push` the contents of `aligned_files` and `knitwork` to the repository
+- [x] `git clone` the repository on `graph-sw2`
+- [x] navigate to the `knitwork` subdirectory
 
 Then, for each merging hypothesis:
 
-- [ ] Run the "fragment" step of FragmentKnitwork: `./run_fragment.sh HYPOTHESIS_NICKNAME`
+- [x] Run the "fragment" step of FragmentKnitwork: `./run_fragment.sh HYPOTHESIS_NICKNAME`
 - [ ] Run the pure "knitting" step of FragmentKnitwork: `./run_knitwork_pure.sh HYPOTHESIS_NICKNAME`
 - [ ] Run the impure "knitting" step of FragmentKnitwork: `./run_knitwork_impure.sh HYPOTHESIS_NICKNAME`
 - [ ] Create the BulkDock inputs: `python to_bulkdock.py HYPOTHESIS_NICKNAME`
