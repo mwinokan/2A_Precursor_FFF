@@ -1,3 +1,6 @@
-monomer:
-- monomer
+monomer-mature:
+- monomer-mature
+- A
+monomer-precursor:
+- monomer-mature
 - A

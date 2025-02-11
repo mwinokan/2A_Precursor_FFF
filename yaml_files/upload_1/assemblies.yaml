@@ -1,24 +1,34 @@
 assemblies:
-    monomer:
+    monomer-mature:
+        reference: A71_2A_x0090_ref_7_monomer
+        biomol: A
+        chains: A
+    monomer-precursor:
         reference: A71EV2AZ-x0053-ground-state
         biomol: A
         chains: A
 crystalforms:
+    A71_2A_open:
+        reference: A71_2A_x0090_ref_7_monomer
+        assemblies:
+            1:
+                assembly: monomer-mature
+                chains: A
     1st_form:
         reference: A71EV2AZ-x0053-ground-state
         assemblies:
             1:
-                assembly: monomer
+                assembly: monomer-precursor
                 chains: A
     2nd_form:
         reference: final_A71EV2A-x004_refinement_refmac
         assemblies:
             1:
-                assembly: monomer
+                assembly: monomer-precursor
                 chains: A
     3rd_form:
         reference: A71EV2A-x004_refinement_ref_4_ryan
         assemblies:
             1:
-                assembly: monomer
+                assembly: monomer-precursor
                 chains: A

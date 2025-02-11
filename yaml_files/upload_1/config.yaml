@@ -1,11 +1,16 @@
 target_name: A71EV2AZ
 base_dir: /
 ref_datasets: 
+  - A71_2A_x0090_ref_7_monomer
   - A71EV2AZ-x0053-ground-state
   - final_A71EV2A-x004_refinement_refmac
   - A71EV2A-x004_refinement_ref_4_ryan
 panddas_missing_ok: [  ]
 inputs:
+  - dir: dls/labxchem/data/lb32627/lb32627-352/processing/reference
+    type: manual
+    code_prefix: ""
+    code_prefix_tooltip: ""
   - dir: dls/labxchem/data/lb32627/lb32627-352
     type: model_building
     code_prefix: "A"
@@ -50,8 +55,3 @@ inputs:
     - processing/analysis/pandda2_20241004/analyses/pandda_inspect_events.csv
     - processing/analysis/pandda2_20241011/analyses/pandda_inspect_events.csv
     - processing/analysis/pandda2_prescreen_ryan_070824/analyses/pandda_inspect_events.csv
-  - dir: dls/labxchem/data/lb32627/lb32627-352/processing/reference
-    type: manual
-    code_prefix: ""
-    code_prefix_tooltip: ""
-

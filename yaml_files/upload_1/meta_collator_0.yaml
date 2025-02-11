@@ -1,9 +1,9 @@
-run_on: '2025-01-30 08:47:30.208821'
+run_on: '2025-02-10 15:37:22.689912'
 collator_cwd: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-v2
 collator_config_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/config.yaml
 input_dirs:
-- /dls/labxchem/data/lb32627/lb32627-352
 - /dls/labxchem/data/lb32627/lb32627-352/processing/reference
+- /dls/labxchem/data/lb32627/lb32627-352
 output_dir: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current
 data_format_version: 2.2
 version_number: 1
@@ -18,6 +18,92 @@ xca_git_info:
 code_prefix_tooltips:
   A: A71 2A-precursor structures
 crystals:
+  final_A71EV2A-x004_refinement_refmac:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - final_A71EV2A-x004_refinement_refmac.pdb
+        sha256: 409951a8c1a00aba1561d297c40b4d3c84fb9862fd849ff7832bf016de9b863d
+      xtal_mtz:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - final_A71EV2A-x004_refinement_refmac.mtz
+        sha256: 30feb77cd62efd534903b2ab527a9ca9f2e235d6ef32acd44f93a48d1d8ad95e
+  A71_2A_x0090_ref_7_monomer:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - A71_2A_x0090_ref_7_monomer.pdb
+        sha256: b34e97503f895f652df87658c1b9f1e33e426c74243568e994b795a0b1882cc3
+      xtal_mtz:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - A71_2A_x0090_ref_7_monomer.mtz
+        sha256: 5b89db47ad6d16ce33658e865394def710fcde534a5bc7a6181d4dd223601b80
+  A71EV2A-x004_refinement_ref_4_ryan:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - A71EV2A-x004_refinement_ref_4_ryan.pdb
+        sha256: e637ceec69c2c82b941e303caf74ad279e29c87b15740753aee06ffbaa54ece4
+  A71EV2AZ-x0053-ground-state:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: !!python/object/apply:pathlib.PosixPath
+        - dls
+        - labxchem
+        - data
+        - lb32627
+        - lb32627-352
+        - processing
+        - reference
+        - A71EV2AZ-x0053-ground-state.pdb
+        sha256: 82efc8a88d0dc08f9023573cd1b489dc9d1cc7fdb775cff1278a4422afe70105
   A71EV2AZ-x0229:
     type: model_building
     last_updated: '2025-01-30 07:33:00'
@@ -108,62 +194,3 @@ crystals:
       ligand_cif:
         file: dls/labxchem/data/lb32627/lb32627-352/processing/analysis/model_building/A71EV2AZ-x0759/compound/Z1889787519.cif
         sha256: fa45e8bf9bb8831f7d601036391eb4fdc16f4852146a479ce0f3beb72f1f94c9
-  final_A71EV2A-x004_refinement_refmac:
-    reference: true
-    code_prefix: ''
-    type: manual
-    crystallographic_files:
-      xtal_pdb:
-        file: !!python/object/apply:pathlib.PosixPath
-        - dls
-        - labxchem
-        - data
-        - lb32627
-        - lb32627-352
-        - processing
-        - reference
-        - final_A71EV2A-x004_refinement_refmac.pdb
-        sha256: 409951a8c1a00aba1561d297c40b4d3c84fb9862fd849ff7832bf016de9b863d
-      xtal_mtz:
-        file: !!python/object/apply:pathlib.PosixPath
-        - dls
-        - labxchem
-        - data
-        - lb32627
-        - lb32627-352
-        - processing
-        - reference
-        - final_A71EV2A-x004_refinement_refmac.mtz
-        sha256: 30feb77cd62efd534903b2ab527a9ca9f2e235d6ef32acd44f93a48d1d8ad95e
-  A71EV2A-x004_refinement_ref_4_ryan:
-    reference: true
-    code_prefix: ''
-    type: manual
-    crystallographic_files:
-      xtal_pdb:
-        file: !!python/object/apply:pathlib.PosixPath
-        - dls
-        - labxchem
-        - data
-        - lb32627
-        - lb32627-352
-        - processing
-        - reference
-        - A71EV2A-x004_refinement_ref_4_ryan.pdb
-        sha256: e637ceec69c2c82b941e303caf74ad279e29c87b15740753aee06ffbaa54ece4
-  A71EV2AZ-x0053-ground-state:
-    reference: true
-    code_prefix: ''
-    type: manual
-    crystallographic_files:
-      xtal_pdb:
-        file: !!python/object/apply:pathlib.PosixPath
-        - dls
-        - labxchem
-        - data
-        - lb32627
-        - lb32627-352
-        - processing
-        - reference
-        - A71EV2AZ-x0053-ground-state.pdb
-        sha256: 82efc8a88d0dc08f9023573cd1b489dc9d1cc7fdb775cff1278a4422afe70105

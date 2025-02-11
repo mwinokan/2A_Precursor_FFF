@@ -1,7 +1,7 @@
-run_on: '2025-01-30 08:47:30.208821'
+run_on: '2025-02-10 15:37:22.689912'
 collator_cwd: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-v2
 collator_config_file: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current/config.yaml
-input_dirs: [/dls/labxchem/data/lb32627/lb32627-352, /dls/labxchem/data/lb32627/lb32627-352/processing/reference]
+input_dirs: [/dls/labxchem/data/lb32627/lb32627-352/processing/reference, /dls/labxchem/data/lb32627/lb32627-352]
 output_dir: /dls/labxchem/data/lb32627/lb32627-352/processing/analysis/xchem-align/upload-current
 data_format_version: 2.2
 version_number: 1
@@ -11,6 +11,52 @@ xca_git_info: {origin_url: 'https://github.com/xchem/xchem-align.git', branch: m
   sha: f2bb6f29de5ec612bf417f150a1dcdbf342cf015, tag: 2.2.0, dirty: false}
 code_prefix_tooltips: {A: A71 2A-precursor structures}
 crystals:
+  final_A71EV2A-x004_refinement_refmac:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb: {file: upload_1/crystallographic_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac.pdb,
+        sha256: 409951a8c1a00aba1561d297c40b4d3c84fb9862fd849ff7832bf016de9b863d,
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/final_A71EV2A-x004_refinement_refmac.pdb}
+      xtal_mtz: {file: upload_1/crystallographic_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac.mtz,
+        sha256: 30feb77cd62efd534903b2ab527a9ca9f2e235d6ef32acd44f93a48d1d8ad95e,
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/final_A71EV2A-x004_refinement_refmac.mtz}
+    status: new
+    assigned_xtalform: 2nd_form
+  A71_2A_x0090_ref_7_monomer:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb: {file: upload_1/crystallographic_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer.pdb,
+        sha256: b34e97503f895f652df87658c1b9f1e33e426c74243568e994b795a0b1882cc3,
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/A71_2A_x0090_ref_7_monomer.pdb}
+      xtal_mtz: {file: upload_1/crystallographic_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer.mtz,
+        sha256: 5b89db47ad6d16ce33658e865394def710fcde534a5bc7a6181d4dd223601b80,
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/A71_2A_x0090_ref_7_monomer.mtz}
+    status: new
+    assigned_xtalform: A71_2A_open
+  A71EV2A-x004_refinement_ref_4_ryan:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb: {file: upload_1/crystallographic_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan.pdb,
+        sha256: e637ceec69c2c82b941e303caf74ad279e29c87b15740753aee06ffbaa54ece4,
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/A71EV2A-x004_refinement_ref_4_ryan.pdb}
+    status: new
+    assigned_xtalform: 2nd_form
+  A71EV2AZ-x0053-ground-state:
+    reference: true
+    code_prefix: ''
+    type: manual
+    crystallographic_files:
+      xtal_pdb: {file: upload_1/crystallographic_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state.pdb,
+        sha256: 82efc8a88d0dc08f9023573cd1b489dc9d1cc7fdb775cff1278a4422afe70105,
+        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/A71EV2AZ-x0053-ground-state.pdb}
+    status: new
+    assigned_xtalform: 1st_form
   A71EV2AZ-x0229:
     type: model_building
     last_updated: '2025-01-30 07:33:00'
@@ -281,40 +327,11 @@ crystals:
               ligand_pdb: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_ligand.pdb,
               ligand_smiles: upload_1/aligned_files/A71EV2AZ-x0759/A71EV2AZ-x0759_A_250_1_A71EV2AZ-x0503+A+245+1_ligand.smi,
               ligand_name: LIG, ligand_smiles_string: 'C[C@H](O)CNCc1ccc2c(c1)OCO2'}
-  final_A71EV2A-x004_refinement_refmac:
-    reference: true
-    code_prefix: ''
-    type: manual
-    crystallographic_files:
-      xtal_pdb: {file: upload_1/crystallographic_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac.pdb,
-        sha256: 409951a8c1a00aba1561d297c40b4d3c84fb9862fd849ff7832bf016de9b863d,
-        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/final_A71EV2A-x004_refinement_refmac.pdb}
-      xtal_mtz: {file: upload_1/crystallographic_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac.mtz,
-        sha256: 30feb77cd62efd534903b2ab527a9ca9f2e235d6ef32acd44f93a48d1d8ad95e,
-        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/final_A71EV2A-x004_refinement_refmac.mtz}
-    status: new
-    assigned_xtalform: 2nd_form
-  A71EV2A-x004_refinement_ref_4_ryan:
-    reference: true
-    code_prefix: ''
-    type: manual
-    crystallographic_files:
-      xtal_pdb: {file: upload_1/crystallographic_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan.pdb,
-        sha256: e637ceec69c2c82b941e303caf74ad279e29c87b15740753aee06ffbaa54ece4,
-        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/A71EV2A-x004_refinement_ref_4_ryan.pdb}
-    status: new
-    assigned_xtalform: 2nd_form
-  A71EV2AZ-x0053-ground-state:
-    reference: true
-    code_prefix: ''
-    type: manual
-    crystallographic_files:
-      xtal_pdb: {file: upload_1/crystallographic_files/A71EV2AZ-x0053-ground-state/A71EV2AZ-x0053-ground-state.pdb,
-        sha256: 82efc8a88d0dc08f9023573cd1b489dc9d1cc7fdb775cff1278a4422afe70105,
-        source_file: /dls/labxchem/data/lb32627/lb32627-352/processing/reference/A71EV2AZ-x0053-ground-state.pdb}
-    status: new
-    assigned_xtalform: 1st_form
 crystalforms:
+  A71_2A_open:
+    xtalform_ref: A71_2A_x0090_ref_7_monomer
+    xtalform_space_group: C 1 2 1
+    xtalform_cell: {a: 86.98, b: 56.66, c: 32.62, alpha: 90.0, beta: 95.68, gamma: 90.0}
   1st_form:
     xtalform_ref: A71EV2AZ-x0053-ground-state
     xtalform_space_group: P 61
@@ -411,6 +428,16 @@ reference_aligned_files:
     A71EV2AZ-x0423+A+301+1: {aligned_structures: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_ref.pdb,
       aligned_artefacts: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_artefacts_ref.pdb,
       aligned_xmaps: upload_1/aligned_files/final_A71EV2A-x004_refinement_refmac/final_A71EV2A-x004_refinement_refmac_A71EV2AZ-x0423+A+301+1_ref.ccp4}
+  A71_2A_x0090_ref_7_monomer:
+    A71EV2AZ-x0503+A+245+1: {aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0503+A+245+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0503+A+245+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0503+A+245+1_ref.ccp4}
+    A71EV2AZ-x0239+A+245+1: {aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0239+A+245+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0239+A+245+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0239+A+245+1_ref.ccp4}
+    A71EV2AZ-x0423+A+301+1: {aligned_structures: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0423+A+301+1_ref.pdb,
+      aligned_artefacts: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0423+A+301+1_artefacts_ref.pdb,
+      aligned_xmaps: upload_1/aligned_files/A71_2A_x0090_ref_7_monomer/A71_2A_x0090_ref_7_monomer_A71EV2AZ-x0423+A+301+1_ref.ccp4}
   A71EV2A-x004_refinement_ref_4_ryan:
     A71EV2AZ-x0503+A+245+1: {aligned_structures: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0503+A+245+1_ref.pdb,
       aligned_artefacts: upload_1/aligned_files/A71EV2A-x004_refinement_ref_4_ryan/A71EV2A-x004_refinement_ref_4_ryan_A71EV2AZ-x0503+A+245+1_artefacts_ref.pdb,
