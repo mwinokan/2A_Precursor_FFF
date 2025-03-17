@@ -1,0 +1,181 @@
+{
+	"database": "/opt/xchem-fragalysis-2/maxwin/BulkDock/TARGETS/A71EV2AZ/A71EV2AZ.sqlite",
+	"timestamp": "2025-03-17 12:43:45.858238",
+	"price": {
+		"amount": 1382.0,
+		"currency": "EUR"
+	},
+	"reactant_supplier": "Enamine",
+	"reactants": {
+		"compound_id": [
+			6863,
+			18481,
+			16598,
+			3134,
+			9688,
+			9684,
+			9710,
+			22130,
+			22230,
+			8728,
+			8761,
+			12068,
+			12159
+		],
+		"amount": [
+			2.0,
+			1.0,
+			1.0,
+			3.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0,
+			1.0
+		],
+		"quote_id": [
+			743,
+			6267,
+			3099,
+			477,
+			3778,
+			78,
+			3933,
+			2560,
+			85,
+			5683,
+			5520,
+			5102,
+			4984
+		],
+		"supplier": [
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine",
+			"Enamine"
+		],
+		"max_lead_time": [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		],
+		"quoted_amount": [
+			100.0,
+			50.0,
+			100.0,
+			100.0,
+			100.0,
+			100.0,
+			50.0,
+			100.0,
+			100.0,
+			50.0,
+			50.0,
+			50.0,
+			50.0
+		]
+	},
+	"intermediates": {
+		"compound_id": [],
+		"amount": [],
+		"quote_id": [],
+		"supplier": [],
+		"max_lead_time": [],
+		"quoted_amount": []
+	},
+	"products": {
+		"compound_id": [
+			318,
+			332,
+			411,
+			412,
+			421,
+			554,
+			973,
+			980
+		],
+		"amount": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"quote_id": [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		],
+		"supplier": [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		],
+		"max_lead_time": [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		],
+		"quoted_amount": [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	"reaction_ids": [
+		7137,
+		6025,
+		7022,
+		13556,
+		18774,
+		15352,
+		7038,
+		9333
+	]
+}
