@@ -1,0 +1,38 @@
+id,smiles,tags
+6,CC(O)CNCc1ccc2c(c1)OCO2,"{'iter1 scaffold', 'WT manual', 'hits'}"
+10,Cc1nc2ccccc2n1CCC(=O)NCC(C)O,{'iter1 scaffold'}
+527,O=C(CCc1nc(C2CC2)no1)Nc1cccc2[nH]ccc12,{'iter1 scaffold'}
+544,O=C(CCc1ccccc1)Nc1cccc2[nH]ccc12,{'iter1 scaffold'}
+557,O=C(CCc1ccc(C(F)(F)F)cc1)Nc1cccc2[nH]ccc12,{'iter1 scaffold'}
+560,O=C(CCc1cccc(F)c1)Nc1cccc2[nH]ccc12,{'iter1 scaffold'}
+563,O=C(CCc1ccc(C(=O)O)cc1)Nc1cccc2[nH]ccc12,{'iter1 scaffold'}
+565,O=C(CCc1ccccc1C(=O)O)Nc1cccc2[nH]ccc12,{'iter1 scaffold'}
+570,O=C(CCc1ncc(F)cn1)Nc1cccc2[nH]ccc12,{'iter1 scaffold'}
+574,COC(C)c1noc(CCC(=O)Nc2cccc3[nH]ccc23)n1,{'iter1 scaffold'}
+814,CC(C)(C)C(CO)NCCCn1cnc2ccccc21,{'iter1 scaffold'}
+818,CC(NCC(C)(O)C(F)F)c1nc2ccccc2[nH]1,{'iter1 scaffold'}
+837,CC(C)NC(CO)CSc1nc2ccccc2[nH]1,{'iter1 scaffold'}
+842,CC(O)CCN(C)Cc1nc2ccccc2[nH]1,{'iter1 scaffold'}
+850,CCC(O)CN(C)Cc1nc2ccccc2[nH]1,{'iter1 scaffold'}
+860,CC(O)CN(C)Cc1nc2ccccc2[nH]1,{'iter1 scaffold'}
+876,OCCNCCn1cnc2ccccc21,{'iter1 scaffold'}
+908,CNCC(O)CN1CCC(c2cccc3[nH]ccc23)CC1,{'iter1 scaffold'}
+20808,NC(=O)CCn1cnc2ccccc21,"{'iter1 scaffold', 'WT manual'}"
+35263,c1ccc2[nH]cnc2c1,"{'iter1 scaffold', 'WT manual'}"
+35264,c1ccc2c(c1)ncn2Cn1ccnn1,"{'iter1 scaffold', 'WT manual'}"
+35265,c1ccc2c(c1)ncn2Cc1ncon1,"{'iter1 scaffold', 'WT manual'}"
+35266,Cn1cc(Cn2cnc3ccccc32)nn1,"{'iter1 scaffold', 'WT manual'}"
+35267,Cn1nnc(Cn2cnc3ccccc32)n1,"{'iter1 scaffold', 'WT manual'}"
+35268,c1ccc2c(c1)ncn2CCn1ccnn1,"{'iter1 scaffold', 'WT manual'}"
+35269,c1ccc2c(c1)ncn2CCc1ncon1,"{'iter1 scaffold', 'WT manual'}"
+35270,Cn1cc(CCn2cnc3ccccc32)nn1,"{'iter1 scaffold', 'WT manual'}"
+35271,Cn1nnc(CCn2cnc3ccccc32)n1,"{'iter1 scaffold', 'WT manual'}"
+35272,CN(C)COc1cccc2ncn(CCC(N)=O)c12,"{'iter1 scaffold', 'WT manual'}"
+35273,CN(C)COc1cccc2ncn(Cn3ccnn3)c12,"{'iter1 scaffold', 'WT manual'}"
+35274,CN(C)COc1cccc2ncn(Cc3ncon3)c12,"{'iter1 scaffold', 'WT manual'}"
+35275,CN(C)COc1cccc2ncn(Cc3cn(C)nn3)c12,"{'iter1 scaffold', 'WT manual'}"
+35276,CN(C)COc1cccc2ncn(Cc3nnn(C)n3)c12,"{'iter1 scaffold', 'WT manual'}"
+35277,CN(C)COc1cccc2ncn(CCn3ccnn3)c12,"{'iter1 scaffold', 'WT manual'}"
+35278,CN(C)COc1cccc2ncn(CCc3ncon3)c12,"{'iter1 scaffold', 'WT manual'}"
+35279,CN(C)COc1cccc2ncn(CCc3cn(C)nn3)c12,"{'iter1 scaffold', 'WT manual'}"
+35280,CN(C)COc1cccc2ncn(CCc3nnn(C)n3)c12,"{'iter1 scaffold', 'WT manual'}"
